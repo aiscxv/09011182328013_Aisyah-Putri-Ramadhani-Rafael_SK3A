@@ -1,10 +1,10 @@
 # Laporan Tugas Remote Linux Server dengan Linux Desktop
 # Profil Mahasiswa
-Nama: Aisyah Putri Ramadhani Rafael
-Nim: 09011182328013
-Kelas: SK3A
-Mata Kuliah: Sistem Operasi
-Dosen Pengampu: Adi Hermansyah, S.Kom., M.T.
+- Nama: Aisyah Putri Ramadhani Rafael
+- Nim: 09011182328013
+- Kelas: SK3A
+- Mata Kuliah: Sistem Operasi
+- Dosen Pengampu: Adi Hermansyah, S.Kom., M.T.
 # 1. Instalasi Ubuntu Server
 Sebelum memulai remote linux, langkah pertama yang harus dilakukan adalah menginstal Ubuntu Server pada VirtualBox. Ubuntu Server dapat didownload di link berikut: (https://releases.ubuntu.com/noble/)
 ![Screenshot 2024-10-30 202159](https://github.com/user-attachments/assets/fb21de3d-f512-4c3b-b82d-64e1798855de)
