@@ -15,8 +15,7 @@ instalasi dapat dilakukan dengan menjalankan perintah berikut:
 ![Screenshot 2024-10-30 183832](https://github.com/user-attachments/assets/0a473d5e-286d-433d-8d46-a067d970fba1)
 2.2. Mengaktifkan dan Melihat Status Layanan SSH
 Layanan SSH perlu diaktifkan agar bisa berjalan otomatis setiap kali server dinyalakan. Silahkan gunakan perintah berikut.
-```sudo systemctl enable ssh
-sudo system systemctl start ssh```
+```sudo systemctl enable ssh, sudo system systemctl start ssh```
 ![Screenshot 2024-10-30 184122](https://github.com/user-attachments/assets/1e81cb59-6e00-4f56-a205-4678a5bdc402)
 # 2.3. Melihat Status Layanan SSH
 untuk memastikan bahwa layananSSH berfungsi dengan baik, jalankan perintah berikut:
